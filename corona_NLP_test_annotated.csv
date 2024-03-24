@@ -1,0 +1,365 @@
+UserName,ScreenName,Location,TweetAt,OriginalTweet,Sentiment,annotations,promptgemini,reason
+1,44953,NYC,02-03-2020,"TRENDING: New Yorkers encounter empty supermarket shelves (pictured, Wegmans in Brooklyn), sold-out online grocers (FoodKick, MaxDelivery) as #coronavirus-fearing shoppers stock up https://t.co/Gr76pcrLWh https://t.co/ivMKMsqdT1",Extremely Negative,Unknown sentiment,"annotate this tweet: TRENDING: New Yorkers encounter empty supermarket shelves (pictured, Wegmans in Brooklyn), sold-out online grocers (FoodKick, MaxDelivery) as #coronavirus-fearing shoppers stock up https://t.co/Gr76pcrLWh https://t.co/ivMKMsqdT1, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+2,44954,"Seattle, WA",02-03-2020,"When I couldn't find hand sanitizer at Fred Meyer, I turned to #Amazon. But $114.97 for a 2 pack of Purell??!!Check out how  #coronavirus concerns are driving up prices. https://t.co/ygbipBflMY",Positive,Unknown sentiment,"annotate this tweet: When I couldn't find hand sanitizer at Fred Meyer, I turned to #Amazon. But $114.97 for a 2 pack of Purell??!!Check out how  #coronavirus concerns are driving up prices. https://t.co/ygbipBflMY, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+3,44955,,02-03-2020,Find out how you can protect yourself and loved ones from #coronavirus. ?,Extremely Positive,Unknown sentiment,"annotate this tweet: Find out how you can protect yourself and loved ones from #coronavirus. ?, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+4,44956,Chicagoland,02-03-2020,"#Panic buying hits #NewYork City as anxious shoppers stock up on food&amp;medical supplies after #healthcare worker in her 30s becomes #BigApple 1st confirmed #coronavirus patient OR a #Bloomberg staged event?
+
+
+
+https://t.co/IASiReGPC4
+
+
+
+#QAnon #QAnon2018 #QAnon2020 
+
+#Election2020 #CDC https://t.co/29isZOewxu",Negative,Unknown sentiment,"annotate this tweet: #Panic buying hits #NewYork City as anxious shoppers stock up on food&amp;medical supplies after #healthcare worker in her 30s becomes #BigApple 1st confirmed #coronavirus patient OR a #Bloomberg staged event?
+
+
+
+https://t.co/IASiReGPC4
+
+
+
+#QAnon #QAnon2018 #QAnon2020 
+
+#Election2020 #CDC https://t.co/29isZOewxu, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+5,44957,"Melbourne, Victoria",03-03-2020,#toiletpaper #dunnypaper #coronavirus #coronavirusaustralia #CoronaVirusUpdate #Covid_19 #9News  #Corvid19 #7NewsMelb #dunnypapergate #Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper. https://t.co/ScZryVvsIh,Neutral,Unknown sentiment,"annotate this tweet: #toiletpaper #dunnypaper #coronavirus #coronavirusaustralia #CoronaVirusUpdate #Covid_19 #9News  #Corvid19 #7NewsMelb #dunnypapergate #Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper. https://t.co/ScZryVvsIh, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+6,44958,Los Angeles,03-03-2020,Do you remember the last time you paid $2.99 a gallon for regular gas in Los Angeles?Prices at the pump are going down. A look at how the #coronavirus is impacting prices. 4pm @ABC7 https://t.co/Pyzq8YMuV5,Neutral,Unknown sentiment,"annotate this tweet: Do you remember the last time you paid $2.99 a gallon for regular gas in Los Angeles?Prices at the pump are going down. A look at how the #coronavirus is impacting prices. 4pm @ABC7 https://t.co/Pyzq8YMuV5, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+7,44959,,03-03-2020,Voting in the age of #coronavirus = hand sanitizer ? #SuperTuesday https://t.co/z0BeL4O6Dk,Positive,Unknown sentiment,"annotate this tweet: Voting in the age of #coronavirus = hand sanitizer ? #SuperTuesday https://t.co/z0BeL4O6Dk, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+8,44960,"Geneva, Switzerland",03-03-2020,"@DrTedros ""We cant stop #COVID19 without protecting #healthworkers.
+
+Prices of surgical masks have increased six-fold, N95 respirators have more than trebled &amp; gowns cost twice as much""-@DrTedros #coronavirus",Neutral,Unknown sentiment,"annotate this tweet: @DrTedros ""We cant stop #COVID19 without protecting #healthworkers.
+
+Prices of surgical masks have increased six-fold, N95 respirators have more than trebled &amp; gowns cost twice as much""-@DrTedros #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+9,44961,,04-03-2020,"HI TWITTER! I am a pharmacist. I sell hand sanitizer for a living! Or I do when any exists. Like masks, it is sold the fuck out everywhere. SHOULD YOU BE WORRIED? No. Use soap. SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE? No. Pharmacies are full of sick people.",Extremely Negative,Error: Unable to analyze label tweet,"annotate this tweet: HI TWITTER! I am a pharmacist. I sell hand sanitizer for a living! Or I do when any exists. Like masks, it is sold the fuck out everywhere. SHOULD YOU BE WORRIED? No. Use soap. SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE? No. Pharmacies are full of sick people., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason tweet
+10,44962,"Dublin, Ireland",04-03-2020,"Anyone been in a supermarket over the last few days? Went to do my NORMAL shop last night &amp; ??is the sight that greeted me. Barmy! (Btw, whats so special about tinned tomatoes? ????????????). #Covid_19 #Dublin https://t.co/rGsM8xUxr6",Extremely Positive,Unknown sentiment,"annotate this tweet: Anyone been in a supermarket over the last few days? Went to do my NORMAL shop last night &amp; ??is the sight that greeted me. Barmy! (Btw, whats so special about tinned tomatoes? ????????????). #Covid_19 #Dublin https://t.co/rGsM8xUxr6, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+11,44963,"Boksburg, South Africa",04-03-2020,"Best quality couches at unbelievably low prices available to order.
+
+
+
+We are in Boksburg GP 
+
+
+
+For more info WhatsApp:
+
+084 764 8086
+
+
+
+#SuperTuesdsy #PowerTalk 
+
+#Covid_19 #SayEntrepreneur 
+
+#DJSBU https://t.co/HhDJhyQ2Dc",Positive,Unknown sentiment,"annotate this tweet: Best quality couches at unbelievably low prices available to order.
+
+
+
+We are in Boksburg GP 
+
+
+
+For more info WhatsApp:
+
+084 764 8086
+
+
+
+#SuperTuesdsy #PowerTalk 
+
+#Covid_19 #SayEntrepreneur 
+
+#DJSBU https://t.co/HhDJhyQ2Dc, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+12,44964,New Delhi,04-03-2020,"Beware of counterfeits trying to sell fake masks at cheap prices. Let's defeat coronavirus threat, #Covid_19 collectively. #BeSafe #BeACascader #CoronavirusReachesDelhi 
+
+#coronavirusindia 
+
+
+
+https://t.co/2Ikkmimj4f https://t.co/RB9rtt7Nkc",Extremely Negative,Unknown sentiment,"annotate this tweet: Beware of counterfeits trying to sell fake masks at cheap prices. Let's defeat coronavirus threat, #Covid_19 collectively. #BeSafe #BeACascader #CoronavirusReachesDelhi 
+
+#coronavirusindia 
+
+
+
+https://t.co/2Ikkmimj4f https://t.co/RB9rtt7Nkc, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+13,44965,"USA, PA",04-03-2020,"Panic food buying in Germany due to #coronavirus has begun.  But the #organic is left behind! #Hamsterkauf
+
+
+
+Panic buying is called ""Hamster purchases""(Hamsterkäufe) in German, taken from the way Hamsters stuff their cheeks with food.  
+
+
+
+https://t.co/aYQtLLGW1m",Extremely Negative,Unknown sentiment,"annotate this tweet: Panic food buying in Germany due to #coronavirus has begun.  But the #organic is left behind! #Hamsterkauf
+
+
+
+Panic buying is called ""Hamster purchases""(Hamsterkäufe) in German, taken from the way Hamsters stuff their cheeks with food.  
+
+
+
+https://t.co/aYQtLLGW1m, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+14,44966,,04-03-2020,"#Covid_19 Went to the Grocery Store, turns out all cleaning supplies have been bought out for fear of Coronavirus.
+
+
+
+My daughter's substitute teacher showed her class how to make hand sanitizer. Now I just need to buy some 100% alcohol. Wish me luck that any stores will have it.",Extremely Positive,Unknown sentiment,"annotate this tweet: #Covid_19 Went to the Grocery Store, turns out all cleaning supplies have been bought out for fear of Coronavirus.
+
+
+
+My daughter's substitute teacher showed her class how to make hand sanitizer. Now I just need to buy some 100% alcohol. Wish me luck that any stores will have it., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+15,44967,"Washington, DC",04-03-2020,"While we were busy watching election returns and bracing for a Covid-19 outbreak, Trump nominated a chemical-industry lobbyist to head the Consumer Product Safety Commission https://t.co/M2ShHI1Tn0",Positive,Unknown sentiment,"annotate this tweet: While we were busy watching election returns and bracing for a Covid-19 outbreak, Trump nominated a chemical-industry lobbyist to head the Consumer Product Safety Commission https://t.co/M2ShHI1Tn0, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+16,44968,Bengaluru ,04-03-2020,"#AirSewa 
+
+
+
+@flyspicejet is not providing #webchecin customers free seats.
+
+
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter. 
+
+
+
+This should be stopped as its discriminatory and against travellers rights 
+
+
+
+@HardeepSPuri @MoCA_GoI",Extremely Negative,Unknown sentiment,"annotate this tweet: #AirSewa 
+
+
+
+@flyspicejet is not providing #webchecin customers free seats.
+
+
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter. 
+
+
+
+This should be stopped as its discriminatory and against travellers rights 
+
+
+
+@HardeepSPuri @MoCA_GoI, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+17,44969,Mumbai,05-03-2020,"What Precautionary measures have you all taken in your respective Restaurants and Hotels, Comment below...
+
+#COVID-19 #Coronavirus
+
+
+
+COVID-19: Hotel chains enforce precautionary measures, issue safety, hygiene advisories
+
+https://t.co/7Zo2vqSPzY",Extremely Positive,Extremely Positive,"annotate this tweet: What Precautionary measures have you all taken in your respective Restaurants and Hotels, Comment below...
+
+#COVID-19 #Coronavirus
+
+
+
+COVID-19: Hotel chains enforce precautionary measures, issue safety, hygiene advisories
+
+https://t.co/7Zo2vqSPzY, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet promotes the safety and hygiene measures taken by restaurants and hotels to prevent the spread of COVID-19, which is a positive message. The hashtag #Covid-19 indicates the relevance of the topic, and the link provides additional information on the subject"
+18,44970,"Toronto, Ontario",05-03-2020,"When youre stockpiling food &amp; other supplies, buy extra for your local food bank. Many families dont have the luxury to spend beyond their weekly budget. @DailyBreadTO  #coronavirus",Neutral,Unknown sentiment,"annotate this tweet: When youre stockpiling food &amp; other supplies, buy extra for your local food bank. Many families dont have the luxury to spend beyond their weekly budget. @DailyBreadTO  #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+19,44971,,05-03-2020,"That's about a week from now. A bit optimistic.  Probably it will take another month.  Supply chain may be recovering, demand chain will be non-existent in US and Europe for the next month or two.
+
+$spx $qqq $es $nq https://t.co/yXcOfL0BnI",Positive,Unknown sentiment,"annotate this tweet: That's about a week from now. A bit optimistic.  Probably it will take another month.  Supply chain may be recovering, demand chain will be non-existent in US and Europe for the next month or two.
+
+$spx $qqq $es $nq https://t.co/yXcOfL0BnI, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+20,44972,Tallahassee,05-03-2020,"Studies show the #coronavirus like #COVID19 can live up to nine days on hard surfaces like metal, plastic, and glass.
+
+
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump.
+
+
+
+Watch and share? https://t.co/AIqATWT5zz",Extremely Positive,Unknown sentiment,"annotate this tweet: Studies show the #coronavirus like #COVID19 can live up to nine days on hard surfaces like metal, plastic, and glass.
+
+
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump.
+
+
+
+Watch and share? https://t.co/AIqATWT5zz, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+21,44973,Malta,05-03-2020,"#CoronaVirus #COVID_19 People are starting to become frightened and to do #PanicShopping. Many shelves, meanwhile, turn empty as #goods are sold. #FaceMasks &amp; disinfection liquid are sold out, or they are sold for exorbitant prices! #Blockchain #CryptoNews https://t.co/AkR3lmLEKf",Negative,Unknown sentiment,"annotate this tweet: #CoronaVirus #COVID_19 People are starting to become frightened and to do #PanicShopping. Many shelves, meanwhile, turn empty as #goods are sold. #FaceMasks &amp; disinfection liquid are sold out, or they are sold for exorbitant prices! #Blockchain #CryptoNews https://t.co/AkR3lmLEKf, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+22,44974,"Texas, USA",05-03-2020,"For those of you that think credit/debit is just as good as #bitcoin when it comes to combating #coronavirus, keep in mind that this is not a ""contactless transaction.""  How many people at your grocery store or gas station touch this keypad every day? https://t.co/WVq8bb9OlS",Extremely Positive,Extremely Negative,"annotate this tweet: For those of you that think credit/debit is just as good as #bitcoin when it comes to combating #coronavirus, keep in mind that this is not a ""contactless transaction.""  How many people at your grocery store or gas station touch this keypad every day? https://t.co/WVq8bb9OlS, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason","The tweet expresses a strong negative opinion about using credit/debit cards during the coronavirus pandemic, claiming that it is not a contactless transaction and that many people touch the keypad every day, potentially spreading the virus. The tweet also includes a link to an article that supports this claim"
+23,44975,"Florida, USA",06-03-2020,Control over stocks and gold is lost...gold coming back very nicely! Loves wallbridge and Balmoral and warns listeners about #coronavirus Sprott Money Ltd. recently put in money to $OCG $GENM $MMG and many more... https://t.co/3aURZ2e4Sj,Extremely Positive,Unknown sentiment,"annotate this tweet: Control over stocks and gold is lost...gold coming back very nicely! Loves wallbridge and Balmoral and warns listeners about #coronavirus Sprott Money Ltd. recently put in money to $OCG $GENM $MMG and many more... https://t.co/3aURZ2e4Sj, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+24,44976,Chandigarh,06-03-2020,"Sellers are cashing on your panic to sell facemasks and sanitizers at super inflated prices.
+
+
+
+In reality, neither sanitizer nor facemasks are ""must have"" to save yourself from #coronavirus. 
+
+
+
+Please watch this video for more :
+
+
+
+https://t.co/sgOFnAu4j8",Extremely Positive,Unknown sentiment,"annotate this tweet: Sellers are cashing on your panic to sell facemasks and sanitizers at super inflated prices.
+
+
+
+In reality, neither sanitizer nor facemasks are ""must have"" to save yourself from #coronavirus. 
+
+
+
+Please watch this video for more :
+
+
+
+https://t.co/sgOFnAu4j8, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+25,44977,Canada,07-03-2020,"Canada's oilpatch is bracing for the impact of plunging crude prices after OPEC and its allies failed to reach a deal aimed at cutting production as economies slow because of the novel #coronavirus. The fool @Jkenney based his budget on hired oil prices 
+
+
+
+https://t.co/fDCpQPvPuo",Extremely Negative,Error: Unable to analyze label tweet,"annotate this tweet: Canada's oilpatch is bracing for the impact of plunging crude prices after OPEC and its allies failed to reach a deal aimed at cutting production as economies slow because of the novel #coronavirus. The fool @Jkenney based his budget on hired oil prices 
+
+
+
+https://t.co/fDCpQPvPuo, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: Unable to analyze reason tweet
+26,44978,"Wayne County, MI",07-03-2020,"Alright yall I hope our Melanin prevails but just in case I took some precautions I had some food &amp; water delivered. ????? Ive had my masks for a month and may have to open soon! 
+
+?? #B1 #FBA 
+
+
+
+#CoronavirusUSA #COVID https://t.co/cTQMDgDgtD",Positive,Unknown sentiment,"annotate this tweet: Alright yall I hope our Melanin prevails but just in case I took some precautions I had some food &amp; water delivered. ????? Ive had my masks for a month and may have to open soon! 
+
+?? #B1 #FBA 
+
+
+
+#CoronavirusUSA #COVID https://t.co/cTQMDgDgtD, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+27,44979,"Bondi Beach, Sydney",07-03-2020,When your usual grocery shopping @woolworths turns into a toilet paper fight in the supermarket aisle. Yikes. #toiletpaperpanic for the #coronavirus has taken a whole new level. https://t.co/aKJ283I20C,Negative,Unknown sentiment,"annotate this tweet: When your usual grocery shopping @woolworths turns into a toilet paper fight in the supermarket aisle. Yikes. #toiletpaperpanic for the #coronavirus has taken a whole new level. https://t.co/aKJ283I20C, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+28,44980,,07-03-2020,"Coronavirus panic spreads: Costco is pulling free samples over COVID-19 - USA TODAY
+
+
+
+Coronavirus panic spreads: Costco is pulling free samples over COVID-19  USA TODAY
+
+
+
+'It's pandemonium': virus panic-buying hits Los Angeles  Yahoo News
+
+
+
+How Costco is Ha https://t.co/MyTDpDomEI",Negative,Unknown sentiment,"annotate this tweet: Coronavirus panic spreads: Costco is pulling free samples over COVID-19 - USA TODAY
+
+
+
+Coronavirus panic spreads: Costco is pulling free samples over COVID-19  USA TODAY
+
+
+
+'It's pandemonium': virus panic-buying hits Los Angeles  Yahoo News
+
+
+
+How Costco is Ha https://t.co/MyTDpDomEI, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+29,44981,,07-03-2020,"While you are stocking up, waiting for quarantine, if you can don't forget to donate  food, water, and toiletries to your local food banks to help others without the means to stock up. Get ahead of it before it becomes a crisis. #covid19 #coronavirus",Negative,Unknown sentiment,"annotate this tweet: While you are stocking up, waiting for quarantine, if you can don't forget to donate  food, water, and toiletries to your local food banks to help others without the means to stock up. Get ahead of it before it becomes a crisis. #covid19 #coronavirus, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+30,44982,United States,07-03-2020,"#Coronavirus is ""an exposure of all the holes in the social safety net,"" says NELP Government Affairs Director Judy Conti
+
+
+
+#UI #Unemployment #PaidLeaveForAll
+
+https://t.co/BrCY9IJWSv",Positive,Unknown sentiment,"annotate this tweet: #Coronavirus is ""an exposure of all the holes in the social safety net,"" says NELP Government Affairs Director Judy Conti
+
+
+
+#UI #Unemployment #PaidLeaveForAll
+
+https://t.co/BrCY9IJWSv, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+31,44983,"New York, New York",07-03-2020,"Two important phone numbers NYers should know. If you have no doctor or insurance and think you may be sick and need to be tested for #coronavirus, call the state's helpline: 1-888-364-3065. To report price gouging, call the Div. of Consumer Protection at 1-800-697-1220.",Negative,Unknown sentiment,"annotate this tweet: Two important phone numbers NYers should know. If you have no doctor or insurance and think you may be sick and need to be tested for #coronavirus, call the state's helpline: 1-888-364-3065. To report price gouging, call the Div. of Consumer Protection at 1-800-697-1220., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+32,44984,"London, England",08-03-2020,"Tip for all Pro Wrestlers to help combat the #coronavirus...be more like @ZoeLucasPro and bring hand sanitizer to your matches as a precaution
+
+
+
+#EVEWrestling @ProWrestlingEVE https://t.co/SUYUsaPm7j",Extremely Positive,Unknown sentiment,"annotate this tweet: Tip for all Pro Wrestlers to help combat the #coronavirus...be more like @ZoeLucasPro and bring hand sanitizer to your matches as a precaution
+
+
+
+#EVEWrestling @ProWrestlingEVE https://t.co/SUYUsaPm7j, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+33,44985,USA,08-03-2020,"Is this effective?
+
+Is it necessary?
+
+Or is it just optics?
+
+Scare tactics?
+
+For the American consumer?
+
+For US MSM to use?
+
+If optics, What is the intended effect?
+
+Fear?
+
+Crash US Market-&gt;panic-&gt;elect Biden
+
+
+
+#Qanon #coronavirus https://t.co/H48ZMfuAme",Extremely Negative,Unknown sentiment,"annotate this tweet: Is this effective?
+
+Is it necessary?
+
+Or is it just optics?
+
+Scare tactics?
+
+For the American consumer?
+
+For US MSM to use?
+
+If optics, What is the intended effect?
+
+Fear?
+
+Crash US Market-&gt;panic-&gt;elect Biden
+
+
+
+#Qanon #coronavirus https://t.co/H48ZMfuAme, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+34,44986,"Toronto, Ontario",08-03-2020,"IMHO Russia's rug pull on oil prices is designed to end the dollar as the global reserve currency. How? Corp debt collapse, led by high yield and fracking, compounded by COVID-19, will mean Fed and US Govt respond with #MMT. Ciao dollar. Alt is collapse. Got #Gold or #Silver yet?",Extremely Negative,Unknown sentiment,"annotate this tweet: IMHO Russia's rug pull on oil prices is designed to end the dollar as the global reserve currency. How? Corp debt collapse, led by high yield and fracking, compounded by COVID-19, will mean Fed and US Govt respond with #MMT. Ciao dollar. Alt is collapse. Got #Gold or #Silver yet?, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+35,44987,"Angmering, West Sussex",08-03-2020,So not due to #Brexit at all then &gt;&gt; Supermarkets begin #foodrationing after wave of #coronavirus-fuelled panic buying https://t.co/AKgkHxO0tW,Neutral,Unknown sentiment,"annotate this tweet: So not due to #Brexit at all then &gt;&gt; Supermarkets begin #foodrationing after wave of #coronavirus-fuelled panic buying https://t.co/AKgkHxO0tW, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+36,44988,"Dont ask for freedom, take it.",08-03-2020,"Remember, with all the media deflection stories about bog rolls, panic-buying, food shortages, Covid-19, Irish bridges etc etc.
+
+
+
+We've still got Brexit, Austerity, poverty, a crashing economy &amp; the worst UK Govt in living memory. 
+
+
+
+All depressing stuff &amp; it aint gonna end well.",Extremely Negative,Unknown sentiment,"annotate this tweet: Remember, with all the media deflection stories about bog rolls, panic-buying, food shortages, Covid-19, Irish bridges etc etc.
+
+
+
+We've still got Brexit, Austerity, poverty, a crashing economy &amp; the worst UK Govt in living memory. 
+
+
+
+All depressing stuff &amp; it aint gonna end well., from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+37,44989,"New York, NY",08-03-2020,"Fellow Uni instructors! COVID-19 f2f class cancelations are  inconvenient! But remember you're salaried employees. Maybe call/email HR or your union &amp; demand to know how hourly workers (clerical, food-service, custodial, etc) will be  compensated during campus closures?",Negative,Unknown sentiment,"annotate this tweet: Fellow Uni instructors! COVID-19 f2f class cancelations are  inconvenient! But remember you're salaried employees. Maybe call/email HR or your union &amp; demand to know how hourly workers (clerical, food-service, custodial, etc) will be  compensated during campus closures?, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+38,44990,,08-03-2020,"@howroute Its not even over food... what the actual heck?? I have news for these people ... 
+
+
+
+you need food and water before you need the paper to wipe your a$$. Just sayin.. ? 
+
+
+
+#covid19 #Covid_19 #coronavirus #corona #virus #panic",Neutral,Unknown sentiment,"annotate this tweet: @howroute Its not even over food... what the actual heck?? I have news for these people ... 
+
+
+
+you need food and water before you need the paper to wipe your a$$. Just sayin.. ? 
+
+
+
+#covid19 #Covid_19 #coronavirus #corona #virus #panic, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+39,44991,"Sydney, New South Wales",08-03-2020,"1/25 Part 1 - Why does soap work so well on the SARS-CoV-2, the coronavirus and indeed most viruses? Because it is a self-assembled nanoparticle in which the weakest link is the lipid (fatty) bilayer. A two part thread about soap, viruses and supramolecular chemistry #COVID19 https://t.co/OCwqPjO5Ht",Negative,Unknown sentiment,"annotate this tweet: 1/25 Part 1 - Why does soap work so well on the SARS-CoV-2, the coronavirus and indeed most viruses? Because it is a self-assembled nanoparticle in which the weakest link is the lipid (fatty) bilayer. A two part thread about soap, viruses and supramolecular chemistry #COVID19 https://t.co/OCwqPjO5Ht, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
+40,44992,Socially Distanced in NC,08-03-2020,"Thread: Please STOP shaming folks who stock up on food and personal care products ahead of #CoronaVirus #COVID19. #Trump made it clear that he doesnt care and wont help, so theyre protecting their families their way. Its a tiny bit of mastery and control in terrifying times. https://t.co/12eMup9mtA",Extremely Positive,Unknown sentiment,"annotate this tweet: Thread: Please STOP shaming folks who stock up on food and personal care products ahead of #CoronaVirus #COVID19. #Trump made it clear that he doesnt care and wont help, so theyre protecting their families their way. Its a tiny bit of mastery and control in terrifying times. https://t.co/12eMup9mtA, from following labels: Positive, Extremely positive, Negative, Extremely Negative and give reason",Error: No annotation found
